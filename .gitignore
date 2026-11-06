@@ -1,0 +1,25 @@
+﻿# Java / Gradle
+**/build/
+**/.gradle/
+.gradle/
+**/out/
+*.class
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de ambiente e senhas
+.env
+.env.*
+!.env.example
+**/application-local.properties
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
